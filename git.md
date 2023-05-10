@@ -9,7 +9,7 @@
 * **Less-of-a-hassle release cycle (matter of merging your readied Pull Request)**
 
 ## High-level workflow for backend development
-![BE](https://github.com/iBeCo/Team/blob/master/img/wf.jpeg)
+![[BE](https://github.com/iBeCo/Team/blob/master/img/wf.jpeg)](https://github.com/joffyjv/gwflow/blob/main/blob/wf.jpeg)
 
 ## Best Practices
 ### Communication is CRUCIAL
@@ -22,7 +22,7 @@ Whether your in your own feature branch or in any of the main branches, before y
 
 This is essential for getting a merge commit where fast forward do-not, so that we can see the history the commits respective to your merged feature branch.
 
-![Image](https://github.com/iBeCo/Team/blob/master/img/242621193_588242542357810_206814242058425790_n.jpeg)
+![[Image](https://github.com/iBeCo/Team/blob/master/img/242621193_588242542357810_206814242058425790_n.jpeg)](https://github.com/joffyjv/gwflow/blob/main/blob/merge.jpeg)
 
 ### Use Git Alias!
 Setting the following alias will help to reduce chances of mistake by simply running git CLI via alias.
