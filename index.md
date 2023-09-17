@@ -86,4 +86,4 @@ If you need to revert the changes on the staging server. You need to follow the 
 3. `$ git reset --hard <commit-id>`<br />
 4. `$ git push --force`<br />
 
-All changes from staging will be reverted to the <commit-id>.
+All changes from staging will be reverted to the 'commit-id'.
