@@ -9,7 +9,7 @@
 * **Less-of-a-hassle release cycle (matter of merging your readied Pull Request)**
 
 ## High-level workflow for backend development
-![Workflow](https://github.com/joffyjv/gwflow/blob/ca4f767f916cdb88797b220887df71a22e3083c6/blob/wf.jpeg)
+![Workflow](https://github.com/joffyjv/gwflow/blob/main/blob/wf.jpeg?raw=true)
 
 ## Best Practices
 ### Communication is CRUCIAL
