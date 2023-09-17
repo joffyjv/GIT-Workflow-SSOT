@@ -22,7 +22,7 @@ Whether your in your own feature branch or in any of the main branches, before y
 
 This is essential for getting a merge commit where fast forward do-not, so that we can see the history the commits respective to your merged feature branch.
 
-![[Image]](https://github.com/joffyjv/gwflow/blob/main/blob/merge.jpeg)
+![[graph]](https://github.com/joffyjv/gwflow/blob/main/blob/merge.jpeg?raw=true)
 
 ### Use Git Alias!
 Setting the following alias will help to reduce chances of mistake by simply running git CLI via alias.
